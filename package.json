@@ -1,0 +1,28 @@
+{
+  "name": "support-desk-system",
+  "version": "1.0.0",
+  "description": "A Complete Support Desk System built with the MERN Stack",
+  "private": true,
+  "scripts": {
+    "start": "cd backend && npm start",
+    "server": "cd backend && npm start",
+    "server:dev": "cd backend && npm run dev",
+    "client": "cd frontend && npm run dev",
+    "client:build": "cd frontend && npm run build",
+    "seed": "cd backend && npm run seed",
+    "test": "cd backend && npm run test"
+  },
+  "keywords": [
+    "mern",
+    "support-desk",
+    "ticketing-system",
+    "express",
+    "mongodb",
+    "react",
+    "redux-toolkit",
+    "tailwindcss"
+  ],
+  "author": "Antigravity Engineering",
+  "license": "MIT"
+}
+
